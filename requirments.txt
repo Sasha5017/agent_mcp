@@ -1,0 +1,10 @@
+langchain
+langchain_community
+langchain_core
+langgraph
+langchain-ollama
+langchain-mcp-adapters
+httpx
+beautifulsoup4
+python-dotenv
+mcp
