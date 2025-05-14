@@ -15,7 +15,7 @@
 ```bash
 pip install -r requirements.txt
 ollama pull qwen3:1.7b
-
+```
 
 
 ## Разбор на Хабр https://habr.com/ru/companies/datafeel/articles/907448/
